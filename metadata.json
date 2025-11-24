@@ -1,0 +1,9 @@
+{
+  "name": "古村落AI导游",
+  "description": "一款为古镇和乡村设计的智能旅行导览应用。它利用多智能体AI系统提供个性化的行程规划、实时地图导航和文化故事讲解，提升游客体验。",
+  "requestFramePermissions": [
+    "geolocation",
+    "microphone",
+    "camera"
+  ]
+}
